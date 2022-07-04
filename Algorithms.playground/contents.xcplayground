@@ -3,5 +3,10 @@
     <pages>
         <page name='SquareDrawing'/>
         <page name='LuckyTicketsSearch'/>
+        <page name='ExponentiationThroughMultiplication'/>
+        <page name='ExponentiationByIterations'/>
+        <page name='ExponentiationThroughBinaryExpansionOfExponent'/>
+        <page name='SearchFibonacciNumberThroughGoldRatio'/>
+        <page name='SearchFibonacciNumberByMatrixMultiply'/>
     </pages>
 </playground>
